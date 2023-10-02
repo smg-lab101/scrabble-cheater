@@ -1,6 +1,4 @@
 # scrabble-cheater
-A study project involving some fun concepts
-
 This Schrabble Cheater was a project for school done in cooperation with @TahroO and @vivigl
 
 Concepts involved: Creating our own hashtable collection, recursive methods to create string permutation

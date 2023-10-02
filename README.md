@@ -6,4 +6,4 @@ Concepts involved: Creating our own hashtable collection, recursive methods to c
 Additional methods in the dictionary class that we used while creating the program can be found on the bottom of the file!
 
 
-(note) I decided to leave comments at a minimum following a clean and understanding coding practice
+(note) I decided to leave comments at a minimum following a clean and understandable coding practice
